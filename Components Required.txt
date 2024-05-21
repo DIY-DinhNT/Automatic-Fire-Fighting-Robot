@@ -1,0 +1,25 @@
+Components Required
+	3mm Acrylic Sheet
+	Solderless Breadboard
+	4 wheel robot car kit
+	Arduino UNO
+	Flame Sensor x 3
+	L298 Motor Driver
+	Mini Servo Motor SG90
+	4Pcs Smart Robot Car Tyers Wheels
+	TIP-122 Transistor
+	1k Resistor
+	104pf Capacitor
+	PVC Water pipe 8mm
+	12V DC Water Pump
+	Water Tank
+	Male to Male Jumper Wires
+	Male to Female Jumper Wires
+	Hard Jumper Wire
+	Male Header
+	On/Off Switch
+	Female DC Power Jack
+	2S BMS 7.4V 3A Over Charge-Discharge Protection
+	18650 Battery Holder – 2 Cell
+	18650 Battery Cell 3.7V x 2
+	9Volt 1.5Amp Power Adapter

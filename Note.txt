@@ -1,0 +1,13 @@
+- nguyên lý làm việc của hệ thống
+- nguyên lý làm việc của SRF04: https://goodgifvs.life/product_details/34566075.html
+Cảm biến siêu âm sử dụng nguyên lý phản xạ sóng siêu âm. Cảm biến gồm 2 module, 1 module phát ra sóng siêu âm và 1 module thu sóng siêu âm phản xạ về. Đầu tiên cảm biến sẽ phát ra 1 sóng siêu âm với tần số 40Khz. Nếu có chướng ngại vật trên đường đi, sóng siêu âm sẽ phản xạ lại và tác động lên module nhận sóng. Bằng cách đo thời gian từ lúc phát đến lúc nhận sóng ta sẽ tính được khoảng cách từ cảm biến đến chướng ngại vật.
+Khoảng cách = (thời gian * vận tốc âm thanh (340m/s) ) / 2
+
+- nguyên lý làm việc của cảm biến lửa: https://nshopvn.com/product/cam-bien-phat-hien-lua-flame-sensor/
++ Sử dụng cảm biến hồng ngoại YG1006 
++ Tích hợp IC LM393 để chuyển đổi ADC
++ tích hợp Analog and digital
++ tùy chỉnh độ nhạy
+- nguyên lý làm việc của l298n: http://arduino.vn/bai-viet/893-cach-dung-module-dieu-khien-dong-co-l298n-cau-h-de-dieu-khien-dong-co-dc
+- nguyên lý làm việc của servo: 
+https://www.instructables.com/Servo-Math/
